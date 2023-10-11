@@ -2,7 +2,7 @@
 
 PyTorch implementation of [Nested Deformable Multi-head Attention for Facial Image Inpainting](https://openaccess.thecvf.com/content/WACV2023/papers/Phutke_Nested_Deformable_Multi-Head_Attention_for_Facial_Image_Inpainting_WACV_2023_paper.pdf).
 
-<p align="center"><img src="architecture.jpg" alt="SPL" width="60%"></p>
+<p align="center"><img src="architecture.png" alt="SPL" width="60%"></p>
 
 ## Prerequisites
 
