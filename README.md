@@ -30,8 +30,12 @@ Keep your dataset by placing images like:
 
 
 ## Checkpoints:
+
+Download the checkpoint: [![Checkpoints](https://img.shields.io/badge/Checkpoint-<COLOR>.svg)](https://drive.google.com/file/d/1C9Dl3o9dxloEr3032uYA9Fw5u4ltn78j/view?usp=sharing)
+
     The checkpoints are provided for:
-        CelebA-HQ dataset in "./checkpoints/"
+        CelebA-HQ dataset
+        Keep the checkpoints in "./checkpoints/"
 
 
 To test the network:
